@@ -1,4 +1,4 @@
-FROM coolchyni/alpine-base
+FROM alpine:3.4
 
 MAINTAINER coolchyni, coolchyni@gmail.com
 
